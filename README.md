@@ -2,7 +2,7 @@
 
 My name is Atharva and I'm currently a Master's student @ McGill University. <br/>
 
-The world of machine learning has a lot to offer and I intend to document my journey through it, right here! <br/>
+Data holds power, and my responsibility is to do good with it. Join me as I explore data & its capabilities! <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvavyas01) 
