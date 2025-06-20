@@ -17,7 +17,7 @@ As an economics major, many of my projects revolve around social justice, so if 
 Feel free to explore my projects, leave feedback, or reach out if you'd like to collaborate. Let's transform data into insights together! 😊
 
 # 🏆 Certifications:
-![Databricks Fundamentals](https://img.shields.io/badge/Databricks%20Fundamentals-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) ![Azure Data Scientist Associate](https://img.shields.io/badge/Azure%20Data%20Scientist%20Associate%20(DP--100)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks Fundamentals](https://img.shields.io/badge/Databricks%20Fundamentals-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) ![Azure Data Scientist Associate](https://img.shields.io/badge/DP--100-Azure%20Data%20Scientist-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvavyas01) 
