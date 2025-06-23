@@ -1,4 +1,4 @@
-## Hello!
+# Hello!
 
 I'm Atharva – a passionate Master's student at McGill University with a keen interest in uncovering insights hidden within data. I believe that data holds transformative power, and it's our responsibility to harness it ethically and effectively. <br/>
 
