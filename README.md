@@ -4,15 +4,15 @@ I'm Atharva – a passionate Master's student at McGill University with a keen i
 
 On this GitHub, you'll find my journey into data science, machine learning, and data-driven storytelling. Whether I'm analyzing complex datasets, building predictive models, or creating intuitive visualizations, my mission remains clear: to do good with data and drive positive change. <br/>
 
-- **Ethical Data Exploration:** Committed to using data responsibly for impactful solutions. ⚖️  
-- **Continuous Learning:** Always exploring new techniques and tools to elevate my craft. 📚  
-- **Collaboration & Innovation:** Open to ideas, collaborations, and conversations with fellow data enthusiasts. 🤝  
+- **Ethical Data Exploration:** Committed to using data responsibly for impactful solutions. ⚖  
+- **Continuous Learning:** Always exploring new techniques and tools to elevate my craft.   
+- **Collaboration & Innovation:** Open to ideas, collaborations, and conversations with fellow data enthusiasts.   
 
-I'm also a big sports fan ⚽🏀 – I have some projects related to sports analytics, so if you want to collaborate on something fun and engaging, do let me know! 🏆 <br/>
+I'm also a big sports fan ⚽ – I have some projects related to sports analytics, so if you want to collaborate on something fun and engaging, do let me know! 🏆 <br/>
 
-I love animals 🐾, and helping out shelters is another project I'm eager to undertake. <br/>
+I love animals, and helping out shelters is another project I'm eager to undertake. <br/>
 
-As an economics major, many of my projects revolve around social justice, so if you're interested in this area, hit me up! ✊ <br/>
+As an economics major, many of my projects revolve around social justice, so if you're interested in this area, hit me up!  <br/>
 
 Feel free to explore my projects, leave feedback, or reach out if you'd like to collaborate. Let's transform data into insights together! 😊
 
