@@ -35,4 +35,4 @@ Feel free to explore my projects, leave feedback, or reach out if you'd like to 
 
 
 <!-- Profile Views Badge (using Komarev) -->
-![Profile views](https://komarev.com/ghpvc/?username=atharvavyas1&label=Profile%20views&&color=brightgreen&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=atharvavyas1&label=Profile%20views&&color=blueviolet&style=flat)
