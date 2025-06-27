@@ -33,3 +33,6 @@ Feel free to explore my projects, leave feedback, or reach out if you'd like to 
 ![](https://nirzak-streak-stats.vercel.app/?user=atharvavyas1&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvavyas1&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<!-- Profile Views Badge (using Komarev) -->
+![Profile views](https://komarev.com/ghpvc/?username=atharvavyas1&label=Profile%20views&&color=brightgreen&style=flat)
